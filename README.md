@@ -15,17 +15,6 @@
 
 -----
 
-## 🖼️ App Preview
-
-Here's a glimpse of the application in action. The interface allows for easy input of house features, and the output provides a clear price prediction along with a detailed explanation chart.
-
-\<p align="center"\>
-\<img src="images/app.png" width="400" alt="App Screenshot 1"\>
-\&nbsp; \&nbsp; \&nbsp;
-\<img src="images/output.png" width="400" alt="App Screenshot 2"\>
-\</p\>
-
------
 
 ## 🛠️ Technologies Used
 
