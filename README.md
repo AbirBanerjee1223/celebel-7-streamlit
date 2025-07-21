@@ -4,7 +4,7 @@
 
 ## ✨ Live Demo
 
-**Experience the app live:** [[https://your-streamlit-app-url.streamlit.app/](https://celebel-7-app-house.streamlit.app/)]
+**Experience the app live:** [[https://celebel-7-app-house.streamlit.app/](https://celebel-7-app-house.streamlit.app/)]
 
 ## 🚀 Key Features
 
