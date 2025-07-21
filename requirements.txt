@@ -1,6 +1,8 @@
 streamlit
 pandas==2.2.2
 scikit-learn==1.5.0
+numpy==1.26.4
+scipy==1.13.1
 xgboost==2.0.3
 shap==0.45.1
 streamlit-shap
