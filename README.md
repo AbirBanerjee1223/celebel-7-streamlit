@@ -1,10 +1,10 @@
 # 🏠 Ames Housing Price Predictor
 
-[](https://www.google.com/search?q=https://your-streamlit-app-url.streamlit.app/) An interactive web application built with Streamlit that predicts house prices in Ames, Iowa, using a powerful XGBoost model. This project not only estimates prices but also provides model explanations using SHAP, making the AI's decisions transparent and understandable.
+[]((https://celebel-7-app-house.streamlit.app/)) An interactive web application built with Streamlit that predicts house prices in Ames, Iowa, using a powerful XGBoost model. This project not only estimates prices but also provides model explanations using SHAP, making the AI's decisions transparent and understandable.
 
 ## ✨ Live Demo
 
-**Experience the app live:** [https://your-streamlit-app-url.streamlit.app/](https://www.google.com/search?q=https://your-streamlit-app-url.streamlit.app/) ---
+**Experience the app live:** [[https://your-streamlit-app-url.streamlit.app/](https://celebel-7-app-house.streamlit.app/)]
 
 ## 🚀 Key Features
 
@@ -31,8 +31,8 @@ To run this project on your local machine, follow these steps:
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/AbirBanerjee1223/celebel-7-streamlit.git
+    cd celebel-7-streamlit
     ```
 
 2.  **Create a Virtual Environment** (Recommended)
@@ -68,7 +68,7 @@ To run this project on your local machine, follow these steps:
 ## 📂 Project Structure
 
 ```
-your-repo-name/
+celebel-7-streamlit/
 │
 ├── model_training.ipynb      # Notebook for EDA, feature engineering, and model training.
 ├── app.py                      # The main Streamlit application script.
